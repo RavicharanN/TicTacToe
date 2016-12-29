@@ -1,3 +1,6 @@
+//Tic-tac-toe p(vs)c
+//~Ravicharan
+
 #include<stdio.h>
 #include<time.h>
 #include<stdlib.h>
